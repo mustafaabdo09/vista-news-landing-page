@@ -22,7 +22,7 @@ This repository contains the responsive and modern **Landing Page** for the **Vi
 ---
 
 ## Live Preview
-You can view the live demo of the landing page [here]([https://yourusername.github.io/vista-news-landing-page/](https://mustafaabdo09.github.io/vista-news-landing-page/).  
+You can view the live demo of the landing page [here](https://mustafaabdo09.github.io/vista-news-landing-page/).  
 
 ---
 
